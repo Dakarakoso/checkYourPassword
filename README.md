@@ -47,7 +47,7 @@ Run on your terminal.
 python3 main.py passwordGoesHere
 ```
 
-###output
+### Output
 
 ```
 ❯ python3 main.py passwordGoesHere
